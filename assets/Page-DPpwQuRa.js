@@ -1,0 +1,1 @@
+import{ah as e,af as a}from"./index-BXZBLQOk.js";import{B as n}from"./button-DG7LWtLf.js";function s(){const o=e();return a.jsxs("div",{className:"container",children:[a.jsx("div",{children:"page not found"}),a.jsx(n,{shape:"round",type:"primary",onClick:()=>o("/"),children:"Back To Home"})]})}export{s as default};
