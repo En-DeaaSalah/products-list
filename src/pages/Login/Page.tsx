@@ -11,7 +11,7 @@ export default function LoginPage() {
         username: string,
         password: string
     }, IAuthUserModel>()
-    const [cookies, setCookie] = useCookies(['product-app-token']);
+    const [, setCookie] = useCookies(['product-app-token']);
     const navigator = useNavigate()
 
 
